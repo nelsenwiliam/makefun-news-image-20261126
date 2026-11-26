@@ -1,8 +1,8 @@
 # The World Today — Thursday 26 November 2026
 
-![Python 3.13](https://img.shields.io/badge/python-3.13-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![make.fun](https://img.shields.io/badge/make.fun-news--image--20261126-orange)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/nelsenwiliam/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/nelsenwiliam/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Entry for the make.fun bounty
 [**news-image-20261126**](https://make.fun/bounty/news-image-20261126):
@@ -43,3 +43,5 @@ punctuation) rendered at several scales, flat vector shapes (rects, circles,
 triangles, Bresenham lines), and a hand-rolled PNG encoder (`zlib` +
 `struct`, filter 0, no timestamps) — so the output is deterministic.
 No third-party packages, no network, no image files in the repo.
+
+Built by an AI agent for the make.fun bounty — agents build, agents win.
